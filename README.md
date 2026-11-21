@@ -11,7 +11,7 @@ AI/ML engineer finishing a Master of Computer Science (MCS) at UC Irvine (Decemb
 **What I have worked on**
 - **Agentic RAG and document pipelines** with LangGraph and Azure AI Search for enterprise clients
 - **AI-assisted SDLC tooling**: LangGraph agents that turn ideas into tickets, with human approval gates
-- **Brainwave-based adaptive learning**: a real-time EEG pipeline with an LLM recommendation system
+- **[Brainwave-based adaptive learning](https://github.com/areebar-netizen/MCS_Capstone)**: a real-time EEG pipeline with an LLM recommendation system
 - **[YogaGuru](https://github.com/pysac17/YogaGuru)**: an AI-powered yoga posture instructor behind a national patent
 
 **Tech**
